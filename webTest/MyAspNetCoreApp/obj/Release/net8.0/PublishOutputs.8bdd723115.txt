@@ -1,0 +1,7 @@
+D:\myCsharp\webTest\MyAspNetCoreApp\publish\MyAspNetCoreApp.exe
+D:\myCsharp\webTest\MyAspNetCoreApp\publish\appsettings.Development.json
+D:\myCsharp\webTest\MyAspNetCoreApp\publish\appsettings.json
+D:\myCsharp\webTest\MyAspNetCoreApp\publish\MyAspNetCoreApp.dll
+D:\myCsharp\webTest\MyAspNetCoreApp\publish\MyAspNetCoreApp.deps.json
+D:\myCsharp\webTest\MyAspNetCoreApp\publish\MyAspNetCoreApp.runtimeconfig.json
+D:\myCsharp\webTest\MyAspNetCoreApp\publish\MyAspNetCoreApp.pdb

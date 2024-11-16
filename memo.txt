@@ -1,0 +1,31 @@
+in cmd
+
+dotnet new mvc -o MyAspNetCoreApp //dotnet new webapp 是建立一個 Razor Pages 專案。您也可以使用 dotnet new mvc 來建立 MVC 專案。
+cd MyAspNetCoreApp
+
+in MyAspNetCoreApp folder
+
+dotnet run
+
+open browser enter: http://localhost:5244
+
+
+build
+
+dotnet build
+
+deploy
+
+dotnet publish -c Release -o ./publish
+
+cd publish
+dotnet MyAspNetCoreApp.dll
+
+
+install mariaDB connection
+
+in terminal 
+dotnet add package MySql.Data
+
+when commit to git, can delete public folder / bin-> DEBUG and Release folders 
+
